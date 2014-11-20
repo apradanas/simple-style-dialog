@@ -3,6 +3,9 @@ Simple Style Dialog
 
 Simple and stylish dialog for Android
 
+##Screenshot
+![sample](https://github.com/apradanas/simple-style-dialog/blob/master/screenshots/sample.gif)
+
 ##Setup
 Import this library into your project
 
