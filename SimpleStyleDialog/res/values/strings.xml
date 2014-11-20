@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SimpleStyleDialog</string>
+    <string name="control_ok">OK</string>
+    <string name="control_cancel">Cancel</string>
+    <string name="control_yes">Yes</string>
+    <string name="control_no">No</string>
+
+</resources>

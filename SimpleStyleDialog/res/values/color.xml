@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="float_transparent">#99000000</color>
+    <color name="soft_blue">#3AA8DE</color>
+    <color name="soft_grey">#F0F0F0</color>
+    
+</resources>
