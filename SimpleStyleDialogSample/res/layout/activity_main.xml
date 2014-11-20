@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button
+        android:id="@+id/sample_button_basicMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/blue_button_background"
+        android:text="@string/basic_message"
+        android:textColor="@android:color/white" />
+    
+    <Button
+        android:id="@+id/sample_button_basicMessageBold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/blue_button_background"
+        android:text="@string/basic_message_bold"
+        android:textColor="@android:color/white" />
+    
+    <Button
+        android:id="@+id/sample_button_singleButtonDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/blue_button_background"
+        android:text="@string/single_button_dialog"
+        android:textColor="@android:color/white" />
+    
+	<Button
+        android:id="@+id/sample_button_doubleButtonDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/blue_button_background"
+        android:text="@string/double_button_dialog"
+        android:textColor="@android:color/white" />
+	
+	<Button
+        android:id="@+id/sample_button_tripleButtonDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/blue_button_background"
+        android:text="@string/triple_button_dialog"
+        android:textColor="@android:color/white" />
+	
+</LinearLayout>
