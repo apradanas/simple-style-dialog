@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SimpleStyleDialogSample</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Simple Style Dialog</string>
     <string name="basic_message">Basic message</string>
     <string name="basic_message_bold">Basic message (bold)</string>
     <string name="single_button_dialog">Single button dialog</string>
