@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-      <item android:state_pressed="true" android:drawable="@drawable/single_button_pressed" />
-      <item android:state_pressed="false" android:drawable="@drawable/single_button_default" /> 
+      <item android:state_pressed="true">
+          <shape>
+              <solid
+                  android:color="@color/soft_grey" />
+              <padding
+                  android:left="10dip"
+                  android:top="10dip"
+                  android:right="10dip"
+                  android:bottom="10dip" />
+              <corners
+                  android:bottomRightRadius="10dip"
+                  android:bottomLeftRadius="10dip" />
+          </shape>
+      </item>
+      
+      <item>
+          <shape>
+              <solid
+                  android:color="@android:color/white" />
+              <padding
+                  android:left="10dip"
+                  android:top="10dip"
+                  android:right="10dip"
+                  android:bottom="10dip" />
+              <corners
+                  android:bottomRightRadius="10dip"
+                  android:bottomLeftRadius="10dip" />
+          </shape>
+      </item>
 </selector>
